@@ -52,7 +52,7 @@ export const projects = [
     description:
       "The very site you are looking at. Built with React for the UI and Tailwind for a sleek, responsive design.",
     tech: ["React", "Tailwind CSS", "Redux Toolkit"],
-    github: "https://github.com/yourusername/portfolio", // Update this
+    github: "https://github.com/sami1921/portfolio-site", // Update this
     type: "Frontend",
   },
 ];
