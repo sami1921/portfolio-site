@@ -55,7 +55,7 @@ const Contact = () => {
               </span>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/sami1921"
               target="_blank"
               className="group flex flex-col items-center gap-2"
             >
@@ -69,7 +69,7 @@ const Contact = () => {
               </span>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/samuel-ayalew-817286373"
               target="_blank"
               className="group flex flex-col items-center gap-2"
             >
