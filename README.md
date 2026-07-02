@@ -1,16 +1,110 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built to showcase my projects, technical skills, and professional journey as a Software Engineer and Cybersecurity Enthusiast.
 
-Currently, two official plugins are available:
+## 📸 Website Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Home Page
 
-## React Compiler
+![Portfolio Home](./screenshots/home-page.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Projects Section
 
-## Expanding the ESLint configuration
+![Projects Section](./screenshots/projects-section.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### About Section
+
+![About Section](./screenshots/about-section.png)
+
+---
+
+## 🚀 Features
+
+- Responsive design for desktop, tablet, and mobile devices
+- Modern and clean user interface
+- Project showcase section with GitHub links and live demos
+- Skills and technologies section
+- About Me section
+- Contact information and social links
+- Smooth animations and interactive components
+
+## 🛠️ Built With
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+
+## 📂 Featured Projects
+
+### 🌍 Natours Website
+
+A full-stack tour booking platform that allows users to browse, book, and manage tours. It includes secure authentication, user management, and payment integration.
+
+**Technologies:** Node.js, Express.js, MongoDB, JWT, Stripe API
+
+### 🛒 E-Commerce Website
+
+A modern e-commerce platform featuring product browsing, shopping cart functionality, user authentication, and a responsive user interface.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, JWT
+
+### 🎬 Setflix
+
+A Netflix-inspired movie streaming application that allows users to browse movies and TV shows with a beautiful and responsive interface.
+
+**Technologies:** React.js, JavaScript, API Integration, Tailwind CSS
+
+### 🔐 Authentication System
+
+An authentication boilerplate implementing secure password hashing using Bcrypt and stateless authentication with JWT and refresh tokens.
+
+**Technologies:** Node.js, Express.js, Bcrypt, JWT
+
+## 🖥️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sami1921/portfolio-website.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd portfolio-website
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+## 📧 Contact
+
+- GitHub: https://github.com/sami1921
+- LinkedIn: https://linkedin.com/in/samuel-ayalew-8172866373
+- Email: [samiayalew26@gmail.com](mailto:samiayalew26@gmail.com)
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
